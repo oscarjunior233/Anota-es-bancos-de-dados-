@@ -1,4 +1,4 @@
-# AAnotacoes bancos de dados
+# Anotacoes bancos de dados
 
 Definição geral de banco de dados - coleção de palavras, que dentre elas
 há relacionamentos entre dados, constituindo então um banco
